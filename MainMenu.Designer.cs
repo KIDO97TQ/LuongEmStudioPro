@@ -223,7 +223,7 @@
             IsMdiContainer = true;
             MainMenuStrip = menuStrip1;
             Name = "MainMenu";
-            Text = "LuongEM Studio Rent&MakeUp (1.0.0.3)";
+            Text = "LuongEM Studio Rent&MakeUp (1.0.0.5)";
             Load += MainMenu_Load;
             ((System.ComponentModel.ISupportInitialize)picLogo).EndInit();
             menuStrip1.ResumeLayout(false);
